@@ -1,21 +1,16 @@
-Header
+Greating traveler ✋Get yourself comfy ☕
+
+Let's get to know each other.
 
 About me
+My name is Roman.
 
-Latest Youtube Videos
+I am learning and practicing Quality Assurance.
 
-Languages and Tools
+I love complex tasks and making people smile.
+
+Tools & Languages
+[![Git Bash](https://github.com/Romshtin/Romshtin/blob/main/assets/GIT-on-Windows.jpg)](https://github.com/Romshtin/QA/tree/master/Terminal_Linux)
 
 Follow me
-### Hi there 👋
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
