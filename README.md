@@ -1,10 +1,10 @@
 # Greating traveler ✋ Get yourself comfy ☕
-## My name is Roman.
+## My name is Roman, i am a QA Engineer
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/ComlexityAndSmile.gif" width="440" height="490" align="right"/>
 
-- :man_technologist: I am learning and [practicing Quality Assurance](https://github.com/Romshtin/QA);
-- :heart_eyes: I love complex tasks and make people smile.
+- :man_technologist: I am [learning and practicing Quality Assurance](https://github.com/Romshtin/QA)
+- :heart_eyes: I love complex tasks and make people smile
 
 ## :hammer_and_wrench: Tools & Languages
 
