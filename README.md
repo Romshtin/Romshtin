@@ -9,6 +9,9 @@
 Tools & Languages
 
 <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
+  <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.png" width="73px">
+  </a>
+  <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
   <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg" width="73px">
   </a>
 
