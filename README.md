@@ -12,7 +12,7 @@ Tools & Languages
   <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg" width="73px">
   </a>
   <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
-  <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Postman.jpg" width="73px">
+  <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Postman.png" width="73px">
   </a>
 
 Follow me
