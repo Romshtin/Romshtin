@@ -6,7 +6,7 @@
 - :man_technologist: I am learning and [practicing Quality Assurance](https://github.com/Romshtin/QA);
 - :heart_eyes: I love complex tasks and make people smile.
 
-## :hammer_and_pick Tools & Languages
+## :hammer_and_wrench: Tools & Languages
 
 <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
   <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg" width="73px">
