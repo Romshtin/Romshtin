@@ -9,7 +9,7 @@
 Tools & Languages
 
 <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
-  <img scr="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg">
+  asdas
   </a>
 
 Follow me
