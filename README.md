@@ -5,6 +5,7 @@
 
 - I am [learning and practicing Quality Assurance](https://github.com/Romshtin/QA)
 - I love complex tasks and make people smile
+- I like to study and learn new technologies
 
 ## :hammer_and_wrench: Tools & Languages
 
