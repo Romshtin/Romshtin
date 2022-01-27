@@ -28,7 +28,7 @@ Tools & Languages
   <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Fiddler.png" width="73px">
 </a>
 <a href="https://github.com/Romshtin/QA/tree/master/Jmeter">
-  <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Jmeter.jpm" width="73px">
+  <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Jmeter.jpg" width="73px">
 </a>
 Follow me
 
