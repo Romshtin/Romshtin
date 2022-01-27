@@ -9,31 +9,31 @@
 ## :hammer_and_wrench: Tools & Languages
 
 <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
-  <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg" width="90" height="90">
+  <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg" width="100" height="100">
 </a>
 <a href="https://github.com/Romshtin/QA/tree/master/Postman">
-  <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Postman.png" width="90" height="90">
+  <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Postman.png" width="100" height="100">
 </a>
 <a href="https://github.com/Romshtin/QA/tree/master/SQL">
-  <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/PostgreSQL.png" width="90" height="90">
+  <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/PostgreSQL.png" width="100" height="100">
 </a>
 <a href="https://drive.google.com/file/d/1-loeziAw9gWrBzEbq8BGhQXk3xi4BmqS/view?usp=sharing">
-  <img alt="DevTools" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/DevTools.png" width="90" height="90">
+  <img alt="DevTools" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/DevTools.png" width="100" height="100">
 </a>
 <a href="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/AndroidStudio.png">
-  <img alt="AndroidStudio" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/AndroidStudio.png" width="90" height="90">
+  <img alt="AndroidStudio" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/AndroidStudio.png" width="100" height="100">
 </a>
 <a href="https://github.com/Romshtin/QA/tree/master/Charles">
-  <img alt="Charles" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Charles.png" width="90" height="90">
+  <img alt="Charles" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Charles.png" width="100" height="100">
 </a>
 <a href="https://github.com/Romshtin/QA/tree/master/Fiddler">
-  <img alt="Fiddler" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Fiddler.png" width="90" height="90">
+  <img alt="Fiddler" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Fiddler.png" width="100" height="100">
 </a>
 <a href="https://github.com/Romshtin/QA/tree/master/Jmeter">
-  <img alt="Jmeter" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Jmeter.jpg" width="90" height="90">
+  <img alt="Jmeter" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Jmeter.jpg" width="100" height="100">
 </a>
 <a href="https://github.com/Romshtin/QA/tree/master/Python">
-  <img alt="Python" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Python.png" width="90" height="90">
+  <img alt="Python" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Python.png" width="100" height="100">
 </a>
 
 
