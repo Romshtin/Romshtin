@@ -11,9 +11,15 @@ Tools & Languages
 <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
   <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg" width="73px">
   </a>
-  <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
+  <a href="https://github.com/Romshtin/QA/tree/master/Postman">
   <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Postman.png" width="73px">
   </a>
+ <a href="https://github.com/Romshtin/QA/tree/master/SQL">
+  <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/PostgreSQL.jpg" width="73px">
+  </a>
+  <a href="https://github.com/Romshtin/QA/tree/master/Postman">
+  <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Postman.png" width="73px">
+  </a> 
 
 Follow me
 
