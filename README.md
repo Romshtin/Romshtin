@@ -10,16 +10,25 @@ Tools & Languages
 
 <a href="https://github.com/Romshtin/QA/tree/master/Terminal_Linux">
   <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg" width="73px">
-  </a>
-  <a href="https://github.com/Romshtin/QA/tree/master/Postman">
+</a>
+<a href="https://github.com/Romshtin/QA/tree/master/Postman">
   <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Postman.png" width="73px">
-  </a>
- <a href="https://github.com/Romshtin/QA/tree/master/SQL">
+</a>
+<a href="https://github.com/Romshtin/QA/tree/master/SQL">
   <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/PostgreSQL.png" width="73px">
-  </a>
-  <a href="https://drive.google.com/file/d/1-loeziAw9gWrBzEbq8BGhQXk3xi4BmqS/view?usp=sharing">
+</a>
+<a href="https://drive.google.com/file/d/1-loeziAw9gWrBzEbq8BGhQXk3xi4BmqS/view?usp=sharing">
   <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/DevTools.png" width="73px">
-  </a> 
-
+</a>
+  <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/AndroidStudio.png" width="73px">
+<a href="https://github.com/Romshtin/QA/tree/master/Charles">
+  <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Charles.png" width="73px">
+</a>
+<a href="https://github.com/Romshtin/QA/tree/master/Fiddler">
+  <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Fiddler.png" width="73px">
+</a>
+<a href="https://github.com/Romshtin/QA/tree/master/Jmeter">
+  <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Jmeter.jpm" width="73px">
+</a>
 Follow me
 
