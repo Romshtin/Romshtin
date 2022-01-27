@@ -20,7 +20,6 @@ Tools & Languages
 <a href="https://drive.google.com/file/d/1-loeziAw9gWrBzEbq8BGhQXk3xi4BmqS/view?usp=sharing">
   <img alt="DevTools" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/DevTools.png" width="73px">
 </a>
-<img alt="AndroidStudio" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/AndroidStudio.png" width="73px">
 <a href="https://github.com/Romshtin/QA/tree/master/Charles">
   <img alt="Charles" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Charles.png" width="73px">
 </a>
@@ -33,6 +32,7 @@ Tools & Languages
 <a href="https://github.com/Romshtin/QA/tree/master/Python">
   <img alt="Python" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Python.png" width="73px">
 </a>
+<img alt="AndroidStudio" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/AndroidStudio.png" width="73px">
 
 Follow me
 
