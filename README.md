@@ -2,82 +2,64 @@
 
 **Автоматизирую задачи с помощью ИИ. Раньше — тестировщик, автотестировщик, разработчик. Сейчас расту в руководителя проекта.**
 
----
+&nbsp;
 
 ## 🚀 Что делаю сейчас
 
-- ### Автоматизация с ИИ
-  Решаю задачи: от создания сайтов под конкретные нужды до разработки AI-чатботов с памятью и пониманием контекста
+**Автоматизация с ИИ** — решаю задачи: от создания сайтов под конкретные нужды до разработки AI-чатботов с памятью и пониманием контекста
 
-- ### Project Management
-  Организую работу команд, планирую сроки и слежу за качеством
+**Project Management** — организую работу команд, планирую сроки и слежу за качеством
 
-- ### Knowledge Engineering
-  Собираю и систематизирую знания через векторные базы и MCP-серверы → [knowledge_base](https://github.com/Romshtin/knowledge_base)
+**Knowledge Engineering** — собираю и систематизирую знания через векторные базы и MCP-серверы → [knowledge_base](https://github.com/Romshtin/knowledge_base)
 
----
+&nbsp;
 
 ## 💬 Проект: AI-чат-бот «ВкусГрад»
 
-### Telegram-бот с искусственным интеллектом для службы поддержки доставки еды:
+**Telegram-бот с искусственным интеллектом для службы поддержки доставки еды**
 
-- ### Умные ответы
-  Бот понимает вопросы на естественном языке и ищет ответы в базе знаний (RAG)
+**Умные ответы** — бот понимает вопросы на естественном языке и ищет ответы в базе знаний (RAG)
 
-- ### Статус заказа
-  Пользователь отправляет номер, бот показывает статус и предлагает повторить заказ
+**Статус заказа** — пользователь отправляет номер, бот показывает статус и предлагает повторить заказ
 
-- ### Возвраты и проблемы
-  Многошаговый диалог: причина → номер → детали → фото → подтверждение
+**Возвраты и проблемы** — многошаговый диалог: причина → номер → детали → фото → подтверждение
 
-- ### Эскалация оператору
-  Когда бот не уверен, сохраняет обращение для человека
+**Эскалация оператору** — когда бот не уверен, сохраняет обращение для человека
 
-**Стек:** aiogram, LangChain, FAISS, Ollama, FastAPI, SQLite
+**Стек:** aiogram, LangChain, FAISS, Ollama, FastAPI, SQLite → [chat-bot](https://github.com/Romshtin/chat-bot)
 
-→ [chat-bot](https://github.com/Romshtin/chat-bot)
-
----
+&nbsp;
 
 ## 🔧 Бэкграунд
 
-- ### QA Engineer
-  Ручное и исследовательское тестирование, аналитика качества
+**QA Engineer** — ручное и исследовательское тестирование, аналитика качества
 
-- ### Automation QA
-  Selenium, API-тесты, CI/CD пайплайны, Postman, Python
+**Automation QA** — Selenium, API-тесты, CI/CD пайплайны, Postman, Python
 
-- ### Developer
-  Автоматизация на Python, скрипты, внутренние инструменты
+**Developer** — автоматизация на Python, скрипты, внутренние инструменты
 
-- ### AI Automator
-  LLM, агентные сценарии, RAG-системы, MCP
+**AI Automator** — LLM, агентные сценарии, RAG-системы, MCP
 
----
+&nbsp;
 
 ## 🛠️ Стек
 
-- ### AI / LLM
-  Ollama, LangChain, FAISS, SentenceTransformers, MCP
+**AI / LLM** — Ollama, LangChain, FAISS, SentenceTransformers, MCP
 
-- ### Backend
-  Python, FastAPI, aiogram, SQLite, pydantic
+**Backend** — Python, FastAPI, aiogram, SQLite, pydantic
 
-- ### QA / Автоматизация
-  Selenium, pytest, Postman, Git, CI/CD
+**QA / Автоматизация** — Selenium, pytest, Postman, Git, CI/CD
 
-- ### Векторные базы
-  LanceDB, semantic search, embeddings
+**Векторные базы** — LanceDB, semantic search, embeddings
 
----
+&nbsp;
 
 ## 📫 Контакты
 
 [![Email](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=gmail&label=&color=e8203b&labelColor=000000)](mailto:roman.kirillov.qa@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=telegram&label=&color=4165a3&labelColor=000000)](https://t.me/Romshtin)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=3947c4&labelColor=000000)](https://www.linkedin.com/in/romankirillov/)
 
----
+&nbsp;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/ComlexityAndSmile.gif">
