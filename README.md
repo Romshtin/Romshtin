@@ -39,7 +39,6 @@
   Когда бот не уверен, сохраняет обращение для человека
 
 **Стек:** aiogram, LangChain, FAISS, Ollama, FastAPI, SQLite → [chat-bot](https://github.com/Romshtin/chat-bot)
-
 &nbsp;
 
 ## 🔧 Бэкграунд
