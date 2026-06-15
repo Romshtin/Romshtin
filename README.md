@@ -6,40 +6,65 @@
 
 ## 🚀 Что делаю сейчас
 
-- **Автоматизация с ИИ** — решаю задачи: от создания сайтов под конкретные нужды до разработки AI-чатботов с памятью и пониманием контекста
-- **Project Management** — организую работу команд, планирую сроки и слежу за качеством
-- **Knowledge Engineering** — собираю и систематизирую знания через векторные базы и MCP-серверы ([knowledge_base](https://github.com/Romshtin/knowledge_base))
+### Автоматизация с ИИ
+Решаю задачи: от создания сайтов под конкретные нужды до разработки AI-чатботов с памятью и пониманием контекста
+
+### Project Management
+Организую работу команд, планирую сроки и слежу за качеством
+
+### Knowledge Engineering
+Собираю и систематизирую знания через векторные базы и MCP-серверы → [knowledge_base](https://github.com/Romshtin/knowledge_base)
+
+---
 
 ## 💬 Проект: AI-чат-бот «ВкусГрад»
 
 Telegram-бот с искусственным интеллектом для службы поддержки доставки еды:
 
-- **Умные ответы** — бот понимает вопросы на естественном языке и ищет ответы в базе знаний (RAG)
-- **Статус заказа** — пользователь отправляет номер, бот показывает статус и предлагает повторить заказ
-- **Возвраты и проблемы** — многошаговый диалог: причина → номер → детали → фото → подтверждение
-- **Эскалация оператору** — когда бот не уверен, сохраняет обращение для человека
+### Умные ответы
+Бот понимает вопросы на естественном языке и ищет ответы в базе знаний (RAG)
+
+### Статус заказа
+Пользователь отправляет номер, бот показывает статус и предлагает повторить заказ
+
+### Возвраты и проблемы
+Многошаговый диалог: причина → номер → детали → фото → подтверждение
+
+### Эскалация оператору
+Когда бот не уверен, сохраняет обращение для человека
 
 **Стек:** aiogram, LangChain, FAISS, Ollama, FastAPI, SQLite
 
 → [chat-bot](https://github.com/Romshtin/chat-bot)
 
+---
+
 ## 🔧 Бэкграунд
 
-- **QA Engineer** — ручное и исследовательское тестирование, аналитика качества
-- **Automation QA** — Selenium, API-тесты, CI/CD пайплайны, Postman, Python
-- **Developer** — автоматизация на Python, скрипты, внутренние инструменты
-- **AI Automator** — LLM, агентные сценарии, RAG-системы, MCP
+### QA Engineer
+Ручное и исследовательское тестирование, аналитика качества
+
+### Automation QA
+Selenium, API-тесты, CI/CD пайплайны, Postman, Python
+
+### Developer
+Автоматизация на Python, скрипты, внутренние инструменты
+
+### AI Automator
+LLM, агентные сценарии, RAG-системы, MCP
+
+---
 
 ## 🛠️ Стек
 
-<div align="center">
-  <img alt="Python" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Python.png" width="60" height="60"/>
-  <img alt="GitBash" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/GitBash.jpg" width="60" height="60"/>
-  <img alt="Postman" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Postman.png" width="60" height="60"/>
-  <img alt="SQL" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/PostgreSQL.png" width="60" height="60"/>
-  <img alt="DevTools" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/DevTools.png" width="60" height="60"/>
-  <img alt="Jmeter" src="https://raw.githubusercontent.com/Romshtin/Romshtin/main/assets/Jmeter.jpg" width="60" height="60"/>
-</div>
+| Направление | Технологии |
+|---|---|
+| **AI / LLM** | Ollama, LangChain, FAISS, SentenceTransformers, MCP |
+| **Backend** | Python, FastAPI, aiogram, SQLite, pydantic |
+| **QA / Автоматизация** | Selenium, pytest, Postman, Git, CI/CD |
+| **Векторные базы** | LanceDB, semantic search, embeddings |
+
+---
 
 ## 📫 Контакты
 
