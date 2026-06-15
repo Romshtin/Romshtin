@@ -57,10 +57,17 @@
 
 ## 🛠️ Стек
 
-- **AI / LLM:** Ollama, LangChain, FAISS, SentenceTransformers, MCP
-- **Backend:** Python, FastAPI, aiogram, SQLite, pydantic
-- **QA / Автоматизация:** Selenium, pytest, Postman, Git, CI/CD
-- **Векторные базы:** LanceDB, semantic search, embeddings
+- ### AI / LLM
+  Ollama, LangChain, FAISS, SentenceTransformers, MCP
+
+- ### Backend
+  Python, FastAPI, aiogram, SQLite, pydantic
+
+- ### QA / Автоматизация
+  Selenium, pytest, Postman, Git, CI/CD
+
+- ### Векторные базы
+  LanceDB, semantic search, embeddings
 
 ---
 
