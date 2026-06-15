@@ -1,6 +1,6 @@
 # Привет, я Роман 👋
 
-> Автоматизирую задачи с помощью ИИ. Раньше — тестировщик, автотестировщик, разработчик. Сейчас расту в руководителя проекта.
+**Автоматизирую задачи с помощью ИИ. Раньше — тестировщик, автотестировщик, разработчик. Сейчас расту в руководителя проекта.**
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 💬 Проект: AI-чат-бот «ВкусГрад»
 
-Telegram-бот с искусственным интеллектом для службы поддержки доставки еды:
+### Telegram-бот с искусственным интеллектом для службы поддержки доставки еды:
 
 - ### Умные ответы
   Бот понимает вопросы на естественном языке и ищет ответы в базе знаний (RAG)
@@ -57,12 +57,10 @@ Telegram-бот с искусственным интеллектом для сл
 
 ## 🛠️ Стек
 
-| Направление | Технологии |
-|---|---|
-| **AI / LLM** | Ollama, LangChain, FAISS, SentenceTransformers, MCP |
-| **Backend** | Python, FastAPI, aiogram, SQLite, pydantic |
-| **QA / Автоматизация** | Selenium, pytest, Postman, Git, CI/CD |
-| **Векторные базы** | LanceDB, semantic search, embeddings |
+- **AI / LLM:** Ollama, LangChain, FAISS, SentenceTransformers, MCP
+- **Backend:** Python, FastAPI, aiogram, SQLite, pydantic
+- **QA / Автоматизация:** Selenium, pytest, Postman, Git, CI/CD
+- **Векторные базы:** LanceDB, semantic search, embeddings
 
 ---
 
