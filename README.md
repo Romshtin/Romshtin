@@ -15,7 +15,6 @@
 - **Knowledge Engineering**
 
   Собираю и систематизирую знания через векторные базы и MCP-серверы → [knowledge_base](https://github.com/Romshtin/knowledge_base)
-
 &nbsp;
 
 ## 💬 Проект: AI-чат-бот «ВкусГрад»
@@ -58,7 +57,6 @@
 - **AI Automator**
 
   LLM, агентные сценарии, RAG-системы, MCP
-
 &nbsp;
 
 ## 🛠️ Стек
@@ -78,7 +76,6 @@
 - **Векторные базы**
 
   LanceDB, semantic search, embeddings
-
 &nbsp;
 
 ## 📫 Контакты
