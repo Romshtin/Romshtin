@@ -122,5 +122,6 @@
 
 ## 📫 Контакты
 
+[![VK](https://img.shields.io/static/v1?style=for-the-badge&logo=vk&message=vk&label=&color=4C75A3&labelColor=000000)](https://vk.com/id1048836436)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=telegram&label=&color=4165a3&labelColor=000000)](https://t.me/Romshtin)
 [![Email](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=gmail&label=&color=e8203b&labelColor=000000)](mailto:roman.kirillov.qa@gmail.com)
